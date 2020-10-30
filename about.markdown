@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Since 1991, Sittler has been providing tub grinding services to both the public and private sectors, with grinding services, from Timmins to Fort Erie and Windsor to Ottawa.  Our mobility, on site efficiency and safety add to reduce our client’s liability of having subcontractors on your sites for extended periods of time.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We are self sufficient on site, and our experienced crews come with large equipment to make the job look easy.
+<br>WE MAKE IT EASY! IT'S WHAT WE DO.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We will grind to many different sizes. Our equipment is equipped with cross belt magnetic separators, removing the ferrous contaminates.
 
-
-[jekyll-organization]: https://github.com/jekyll
+For construction wood and demolition material which are collected in landfills, we produce a course mulch size of product to be used on site.

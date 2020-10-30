@@ -2,12 +2,15 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
-
   // Positioning context for the mobile navigation icon
-  position: relative;
+  .wrapper {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: $header-height;
+    padding: 0 $large-spacing;
+  }
 }
 
 .site-title {
@@ -16,17 +19,19 @@
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  //float: left;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $nav-color;
   }
 }
 
 .site-nav {
-  float: right;
+  margin-left: auto;
   line-height: $base-line-height * $base-font-size * 2.25;
+  flex-shrink: 0;
+  padding-left: $large-spacing;
 
   .nav-trigger {
       display: none;
@@ -36,28 +41,68 @@
     display: none;
   }
 
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
+  ul {
+    list-style: none;
+    margin: 0;
+    li {
+      display: inline-block;
+      position: relative;
+      .page-link {
+        color: $nav-color;
+        line-height: $base-line-height;
+        text-decoration: none;
+        margin-left: 10px;
+        &:hover,
+        &:focus {
+          text-decoration: none;
+          color: $brand-light;
+        }
+        &.active {
+          color: $brand-light;
+        }
+      }
+      // Gaps between nav items, but not on the last one
+      &:not(:last-child) .page-link {
+        margin-right: 10px;
+      }
+      @include media-query-inverse($width-hamburger) {
+        .page-link {
+          &.in-path {
+            color: $brand-light;
+          }
+        }
+        ul.submenu {
+          display: none;
+          background: $dropdown-menu-background-color;
+          li {
+            display: block;
+            padding: 0;
+            line-height: 1;
+            border-top: solid 1px $dropdown-menu-divider-color;
+            .page-link {
+              display: block;
+              padding: $default-spacing;
+              margin: 0;
+            }
+          }
+        }
+        &.has-subpages:hover {
+          background-color: $dropdown-menu-background-color;
+        }
 
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
+        &:hover ul.submenu,
+        ul.submenu:hover {
+          display: block;
+          position: absolute;
+          z-index: 1000;
+        }
+      }
     }
   }
 
-  @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
-
+  @include media-query($width-hamburger) {
     label[for="nav-trigger"] {
       display: block;
-      float: right;
       width: 36px;
       height: 36px;
       z-index: 2;
@@ -66,7 +111,6 @@
 
     .menu-icon {
       display: block;
-      float: right;
       width: 36px;
       height: 26px;
       line-height: 0;
@@ -74,7 +118,13 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: $color-white;
+        fill-opacity: 0.8;
+        &:hover,
+        &:focus {
+          fill-opacity: 1;
+        }
+
       }
     }
 
@@ -85,21 +135,50 @@
 
     input:checked ~ .trigger {
       display: block;
-      padding-bottom: 5px;
+      position: absolute;
+      top: $header-height;;
+      right: 0;
+      left: 0;
+      width: 100vw;
+      text-align: center;
+      background-color: $hamburger-menu-background-color;
+      z-index: 100;
     }
 
     .page-link {
       display: block;
-      padding: 5px 10px;
-
+      padding: $default-spacing 0;
+      border-top: solid 1px $dropdown-menu-divider-color;
       &:not(:last-child) {
         margin-right: 0;
+        margin-left: 0;
       }
-      margin-left: 20px;
     }
+
+    ul {
+      li {
+        display: block;
+        .page-link {
+          display: block;
+          padding: $default-spacing 0;
+          border-top: solid 1px $dropdown-menu-divider-color;
+          margin-left: 0;
+        }
+        &:not(:last-child) .page-link {
+          margin-right: 0;
+        }
+        ul.submenu {
+          display: block;
+          li {
+            font-size: 0.95em;
+            display: block;
+          }
+        }
+      }
+    }
+
   }
 }
-
 
 
 /**

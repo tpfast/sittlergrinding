@@ -5,17 +5,20 @@ $color-white: #FFFFFF;
 $color-dark: #000000;
 $color-light-grey: #CCCCCC;
 $color-red: #b0122c;
+$color-green: #3F5739;
+$color-dark-green: #384136;
 
 $text-color: #111111;
 $brand-light: $color-peach;
 $brand-dark: $color-dark-purple;
-$brand-color: lighten($brand-dark, 25%);
-$divider-color: rgba($brand-dark, 0.3);
+$brand-color: $color-green;
+$divider-color: $color-dark-green;
 
 $nav-color: $color-white;
-$header-background-color: $brand-dark;
+$header-background-color: $color-green;
 $hamburger-menu-background-color: rgba(0,0,0,.93);
 $dropdown-menu-background-color: rgba(0,0,0,.93);
+$dropdown-menu-divider-color: $color-dark-green;
 $footer-color: $color-dark;
 $footer-background-color: $brand-light;
 $footer-copyright-notice-background-color: $brand-light;
