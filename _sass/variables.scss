@@ -1,0 +1,37 @@
+$color-dark-purple: #05032D;
+$color-peach: #E5A37B;
+$color-green: #BAAE57;
+$color-white: #FFFFFF;
+$color-dark: #000000;
+$color-light-grey: #CCCCCC;
+$color-red: #b0122c;
+
+$text-color: #111111;
+$brand-light: $color-peach;
+$brand-dark: $color-dark-purple;
+$brand-color: lighten($brand-dark, 25%);
+$divider-color: rgba($brand-dark, 0.3);
+
+$nav-color: $color-white;
+$header-background-color: $brand-dark;
+$hamburger-menu-background-color: rgba(0,0,0,.93);
+$dropdown-menu-background-color: rgba(0,0,0,.93);
+$footer-color: $color-dark;
+$footer-background-color: $brand-light;
+$footer-copyright-notice-background-color: $brand-light;
+$footer-copyright-notice-color: $color-dark;
+
+$small-spacing: 5px;
+$medium-spacing: 10px;
+$default-spacing: 15px;
+$large-spacing: 30px;
+$extra-large-spacing: 60px;
+
+$header-height: 100px;
+$footer-height: 100px;
+
+$base-font-family: 'Lato', sans-serif;
+$content-width: 1200px;
+$on-laptop: 800px;
+
+$width-hamburger: $on-laptop;
