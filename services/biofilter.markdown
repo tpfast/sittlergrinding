@@ -4,8 +4,8 @@ title: Biofilter Media
 permalink: /services/biofilter/
 ---
 
-
-Biofilter Media
+<div class="row">
+<div class="col-8" markdown="1">
 
 When it comes to some production processes, you will sometimes have odors that are produced, such as wastewater treatment plants or food processing plants. The processes can have the presence of foul odors due to decomposition. Our Bio filter media product is an odor abatement strategy that is comprised of a diverse culture of organic matter making this not only an effective, but efficient solution to mitigate these problems.
 
@@ -20,3 +20,53 @@ The process is simple; Microbes metabolize the compounds found in the polluted e
 Our product is a proven air control system that is effective in environmental sustainability and treatment.
 
 Natural Biofilter Media Company, has 18 years experience producing and manufacturing a high end product of natural  media material,  ranging in various sizes for your business' different needs to meet the necessary air flow requirements. The purpose of our product is to decrease and alleviate the air pollution that occurs throughout the process of organic matter decomposition. Through millions of microorganisms grown naturally on our product they safely remove odors from air pollutants through a thin layer referred to as biofilm. Our knowledge and ability to create all sizes of biofilter media allows us confidence in maintaining important factors such as the PH balance, porosity and overall performance needed to filter efficiently.   Our air filtration media is made up of several types of wood media, root and body wood, making it a green solution.
+
+</div>
+<div class="col-4" markdown="1">
+
+![Biofilter](/assets/images/bioifilter_pile_behind_tube.jpg "Biofilter")
+
+![](/assets/images/biofilter_pile_with_divider_s.jpg)
+
+</div>
+<div class="col-4" markdown="1">
+
+![](/assets/images/bilfilter_layer_in_corner_s.jpg)
+
+</div>
+<div class="col-4" markdown="1">
+
+![](/assets/images/scattered_pipes_before_biofilter_media_s.jpg)
+
+</div>
+<div class="col-4" markdown="1">
+
+![Biofilter Pile](/assets/images/biofilterphotos_002.jpg "Pile of biofilter")
+
+</div>
+<div class="col-4" markdown="1">
+
+![Biofilter media](/assets/images/woolwich-20120516-00203_copy.jpg "Biofilter with glove for sizing")
+
+</div>
+<div class="col-4" markdown="1">
+
+![Biofilter media containment cell (empty)](/assets/images/grimsbybiofilterproject_002.jpg "Biofilter cell (empty)")
+
+</div>
+<div class="col-4" markdown="1">
+
+![Miofilter media containment cell (full)](/assets/images/grimsbybiofilterprojectwiththebedfull_004.jpg "Biofilter container (full)")
+
+</div>
+<div class="col-4" markdown="1">
+
+![Biofilter](/assets/images/grimsbybiofilterprojectwiththebedfull_016.jpg "Person on biofilter area")
+
+</div>
+<div class="col-4" markdown="1">
+
+![Stumps to be ground](/assets/images/stumps_to_be_ground.jpg "Stumps to be ground") 
+
+</div>
+</div>
