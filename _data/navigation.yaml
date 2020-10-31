@@ -7,19 +7,19 @@
   link: /services/
   subpages:
     - name: Biofilter
-      link: /services/biofilter
+      link: /services/biofilter/
     - name: Grinding
-      link: /services/grinding
+      link: /services/grinding/
     - name: Screening
-      link: /services/screening
+      link: /services/screening/
 - name: Waste Wood Receiving
   link: /receiving/
   subpages:
     - name: Stumps, Logs and Brush
-      link: /receiving/stumps
+      link: /receiving/stumps/
     - name: Construction Waste Wood
-      link: /receiving/construction
+      link: /receiving/construction/
     - name: General Public
-      link: /receiving/general
+      link: /receiving/general/
 - name: Contact Us
   link: /contact/

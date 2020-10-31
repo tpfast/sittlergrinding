@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grinding
-permalink: /services/grinding
+permalink: /services/grinding/
 ---
 
 Sittler operates several mobile tub grinding units which serve to manufacture many different size mulch products, with many uses. Land clearing materials, stump grinding, yard trimmings, stumps, and leaves can be reduced to produce mulch products. Sittler has many years of experience in providing custom tub grinding services.  Sittler currently has municipal contracts as well as private contractors as clients. We work on long-term contracts or one time lump sum and unit priced contracts.

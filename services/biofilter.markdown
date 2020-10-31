@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biofilter Media
-permalink: /services/biofilter
+permalink: /services/biofilter/
 ---
 
 
