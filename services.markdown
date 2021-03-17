@@ -6,6 +6,6 @@ permalink: /services/
 
 We offer a variety of services
 
- * [Biofilter Media](/services/biofilter)
  * [Grinding](/services/grinding)
+ * [Biofilter Media](/services/biofilter)
  * [Screening](/services/screening)
