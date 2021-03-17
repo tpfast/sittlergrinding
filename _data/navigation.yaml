@@ -6,10 +6,10 @@
 - name: Services
   link: /services/
   subpages:
-    - name: Biofilter
-      link: /services/biofilter/
     - name: Grinding
       link: /services/grinding/
+    - name: Biofilter
+      link: /services/biofilter/
     - name: Screening
       link: /services/screening/
 - name: Waste Wood Receiving
