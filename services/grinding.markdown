@@ -14,6 +14,6 @@ Why does big equipment matter? When our crews are finished, the stockpiles are m
 
 We will grind to many different sizes. Our equipment is equipped with cross belt continuous magnetic separators, removing the ferrous contaminates.
 
-For construction wood and demolition material which are collected in landfills, we provide a course grind size product. As well as size and volume reduction, this product will become more compact, spreadable, and ultimately can be used as an Alternative Daily Cover (ADC).
+For construction wood and demolition material which are collected in landfills, we provide a coarse grind size product. As well as size and volume reduction, this product will become more compact, spreadable, and ultimately can be used as an Alternative Daily Cover (ADC).
 
 The photo below shows the orderly fashion in which the mulched compost is neatly stockpiled after mulching.

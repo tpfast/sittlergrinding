@@ -16,15 +16,37 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
+            <li>
+              <a href="{{ site.contact }}">All contact info</a>
+            </li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
+        <div>
+          2660 Arthur St. N
+          <br>Elmira, Ontario
+          <br>N3B 2Z5, Canada
+        </div>
       </div>
 
       <div class="footer-col footer-col-3">
-        
+        <table style="width: auto;">
+          <thead>
+            <tr>
+              <th colspan="2">Hours of Operation</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Mon - Fri:</th><th>7:00-5:00</th>
+            </tr>
+            <tr>
+              <th>Sat:</th><th>8:00-4:00</th>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
 

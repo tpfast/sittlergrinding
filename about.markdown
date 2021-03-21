@@ -11,4 +11,4 @@ We are **self sufficient** on site, and our experienced crews come with large eq
 
 We will grind to many different sizes. Our equipment is equipped with cross belt magnetic separators, removing the ferrous contaminates.
 
-For construction wood and demolition material which are collected in landfills, we produce a course mulch size of product to be used on site.
+For construction wood and demolition material which are collected in landfills, we produce a coarse mulch size of product to be used on site.

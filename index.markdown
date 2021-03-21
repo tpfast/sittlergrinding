@@ -12,7 +12,11 @@ layout: default
 <div class="row">
 <div class="col-8" markdown="1">
 
-Custom tub grinding is what we do. Since 1991 Sittler has been grinding wood, and producing mulch from leaves, brush and land-clearing material. We also produce mulch from waste construction and demolition wood producing agriculturally used mulches.
+Custom tub grinding is what we do.
+Since 1991 Sittler has been grinding wood, and producing mulch from leaves,
+brush and land-clearing material.
+We also produce mulch from waste construction and demolition wood,
+producing agriculturally used mulches.
 
 </div>
 <div class="col-4" markdown="1">

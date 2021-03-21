@@ -21,5 +21,12 @@
       link: /receiving/construction/
     - name: General Public
       link: /receiving/general/
+    - name: Concrete and Asphalt
+      link: /receiving/concrete/
+- name: Products
+  link: /products/
+  subpages:
+    - name: Bedding
+      link: /products/bedding/
 - name: Contact Us
   link: /contact/

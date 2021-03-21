@@ -6,17 +6,17 @@ permalink: /contact/
 
 We can be reached at:
 
-Phone: [519-669-2456 (office)](tel:519-669-2456)
+Phone: [519-669-2456](tel:519-669-2456) (office)
 
-Phone: [519-588-8400 (mobile)](tel:5195888400)
+Phone: [519-588-8400](tel:5195888400) (mobile)
 
-Phone: [1-877-773-8004 (toll free)](tel:18777738004) 
+Phone: [1-877-773-8004](tel:18777738004)  (toll free)
 
 Email: [rick@sittlergrinding.com](mailto:rick@sittlergrinding.com)
 
 2660 Arthur St N.<br>
 Elmira, Ontario<br>
-N3B 2Z1<br>
+N3B 2Z5<br>
 
 [Google Maps link](https://www.google.ca/maps/place/Sittler+Grinding+Inc./@43.6392643,-80.5510292,17z/data=!3m1!4b1!4m5!3m4!1s0x882be959fb9c0dbf:0x92fccd918f7bd69f!8m2!3d43.6392643!4d-80.5488405)
 
