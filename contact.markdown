@@ -10,7 +10,7 @@ Phone: [519-669-2456](tel:519-669-2456) (office)
 
 Phone: [519-588-8400](tel:5195888400) (mobile)
 
-Phone: [1-877-773-8004](tel:18777738004)  (toll free)
+Phone: [1-877-773-8004](tel:18777738004) (toll free)
 
 Email: [rick@sittlergrinding.com](mailto:rick@sittlergrinding.com)
 
@@ -20,6 +20,8 @@ N3B 2Z5<br>
 
 [Google Maps link](https://www.google.ca/maps/place/Sittler+Grinding+Inc./@43.6392643,-80.5510292,17z/data=!3m1!4b1!4m5!3m4!1s0x882be959fb9c0dbf:0x92fccd918f7bd69f!8m2!3d43.6392643!4d-80.5488405)
 
+<div class="row">
+<div class="col-6">
 <table>
 <thead><tr><th colspan="2">Hours of Operation</th></tr></thead>
 <tbody>
@@ -32,3 +34,4 @@ N3B 2Z5<br>
 <tr><td>Sunday</td><td>Closed</td></tr>
 </tbody>
 </table>
+</div>

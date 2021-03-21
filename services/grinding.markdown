@@ -17,3 +17,5 @@ We will grind to many different sizes. Our equipment is equipped with cross belt
 For construction wood and demolition material which are collected in landfills, we provide a coarse grind size product. As well as size and volume reduction, this product will become more compact, spreadable, and ultimately can be used as an Alternative Daily Cover (ADC).
 
 The photo below shows the orderly fashion in which the mulched compost is neatly stockpiled after mulching.
+
+![grinding compost](/assets/images/grinding_compost.jpg "grinding")

@@ -28,5 +28,7 @@
   subpages:
     - name: Bedding
       link: /products/bedding/
+    - name: Concrete and Asphalt
+      link: /products/concrete/
 - name: Contact Us
   link: /contact/
