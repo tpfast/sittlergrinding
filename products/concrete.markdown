@@ -8,3 +8,8 @@ permalink: /products/concrete
 
 We sell concrete and asphalt by the ton.
 
+<!--
+Asphalt: $15.00/ton
+
+Concrete: $13.00/ton
+-->

@@ -25,6 +25,10 @@
   &:visited {
     color: $nav-color;
   }
+  &:hover,
+  &:focus {
+    color: $brand-light;
+  }
 }
 
 $desktop-nav-hover-grow: 8px;

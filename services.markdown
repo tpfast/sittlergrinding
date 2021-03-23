@@ -7,5 +7,5 @@ permalink: /services/
 We offer a variety of services
 
  * [Grinding](/services/grinding)
- * [Biofilter Media](/services/biofilter)
+ * [Biofilter](/services/biofilter)
  * [Screening](/services/screening)

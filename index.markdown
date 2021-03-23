@@ -5,9 +5,11 @@
 layout: default
 ---
 
-## Welcome to Sittler Grinding Inc.
+![We make it easy](/assets/images/WeMakeItEasyHeader.png "Sittler Grinding
+We make it easy.
+It's what we do.")
 
-### Sittler Grinding Inc.
+## Welcome to Sittler Grinding Inc.
 
 <div class="row">
 <div class="col-8" markdown="1">

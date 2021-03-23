@@ -4,4 +4,4 @@ title: Concrete and Asphalt
 permalink: /receiving/concrete/
 ---
 
-# Concrete and Asphalt
+We accept loads of concrete and asphalt.
