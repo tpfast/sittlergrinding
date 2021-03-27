@@ -18,4 +18,4 @@ For construction wood and demolition material which are collected in landfills, 
 
 The photo below shows the orderly fashion in which the mulched compost is neatly stockpiled after mulching.
 
-![grinding compost](/assets/images/grinding_compost.jpg "grinding")
+![grinding compost](/assets/images/grinding_compost_w.jpg "grinding")

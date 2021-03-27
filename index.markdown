@@ -5,7 +5,7 @@
 layout: default
 ---
 
-![We make it easy](/assets/images/WeMakeItEasyHeader.png "Sittler Grinding
+![We make it easy](/assets/images/WeMakeItEasyHeader_w.jpg "Sittler Grinding
 We make it easy.
 It's what we do.")
 
@@ -23,9 +23,9 @@ producing agriculturally used mulches.
 </div>
 <div class="col-4" markdown="1">
 
-![A tub grinder](/assets/images/tub_grinder.jpg "A tub grinder")
+![A tub grinder](/assets/images/tub_grinder_w.jpg "A tub grinder")
 
-![An arm and tub grinder](/assets/images/arm_and_grinder.jpg "An arm and tub grinder")
+![An arm and tub grinder](/assets/images/arm_and_grinder_w.jpg "An arm and tub grinder")
 
 </div>
 </div>

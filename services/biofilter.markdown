@@ -24,49 +24,49 @@ Natural Biofilter Media Company, has 18 years experience producing and manufactu
 </div>
 <div class="col-4" markdown="1">
 
-![Biofilter](/assets/images/bioifilter_pile_behind_tube.jpg "Biofilter")
+![Biofilter](/assets/images/bioifilter_pile_behind_tube_w.jpg "Biofilter")
 
-![](/assets/images/biofilter_pile_with_divider_s.jpg)
-
-</div>
-<div class="col-4" markdown="1">
-
-![](/assets/images/bilfilter_layer_in_corner_s.jpg)
+![](/assets/images/biofilter_pile_with_divider_s_w.jpg)
 
 </div>
 <div class="col-4" markdown="1">
 
-![](/assets/images/scattered_pipes_before_biofilter_media_s.jpg)
+![](/assets/images/bilfilter_layer_in_corner_s_w.jpg)
 
 </div>
 <div class="col-4" markdown="1">
 
-![Biofilter Pile](/assets/images/biofilterphotos_002.jpg "Pile of biofilter")
+![](/assets/images/scattered_pipes_before_biofilter_media_s_w.jpg)
 
 </div>
 <div class="col-4" markdown="1">
 
-![Biofilter media](/assets/images/woolwich-20120516-00203_copy.jpg "Biofilter with glove for sizing")
+![Biofilter Pile](/assets/images/biofilterphotos_002_w.jpg "Pile of biofilter")
 
 </div>
 <div class="col-4" markdown="1">
 
-![Biofilter media containment cell (empty)](/assets/images/grimsbybiofilterproject_002.jpg "Biofilter cell (empty)")
+![Biofilter media](/assets/images/woolwich-20120516-00203_copy_w.jpg "Biofilter with glove for sizing")
 
 </div>
 <div class="col-4" markdown="1">
 
-![Miofilter media containment cell (full)](/assets/images/grimsbybiofilterprojectwiththebedfull_004.jpg "Biofilter container (full)")
+![Biofilter media containment cell (empty)](/assets/images/grimsbybiofilterproject_002_w.jpg "Biofilter cell (empty)")
 
 </div>
 <div class="col-4" markdown="1">
 
-![Biofilter](/assets/images/grimsbybiofilterprojectwiththebedfull_016.jpg "Person on biofilter area")
+![Miofilter media containment cell (full)](/assets/images/grimsbybiofilterprojectwiththebedfull_004_w.jpg "Biofilter container (full)")
 
 </div>
 <div class="col-4" markdown="1">
 
-![Stumps to be ground](/assets/images/stumps_to_be_ground.jpg "Stumps to be ground") 
+![Biofilter](/assets/images/grimsbybiofilterprojectwiththebedfull_016_w.jpg "Person on biofilter area")
+
+</div>
+<div class="col-4" markdown="1">
+
+![Stumps to be ground](/assets/images/stumps_to_be_ground_w.jpg "Stumps to be ground") 
 
 </div>
 </div>
