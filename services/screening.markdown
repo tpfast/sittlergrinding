@@ -14,7 +14,7 @@ and from Ottawa to Windsor. We are able to screen your compost or
 supply tub grinding, to your specifications.
  </div>
  <div class="col5">
-  <img src="/assets/images/compost.jpg" alt="compost piles">
+  <img src="/assets/images/compost_w.jpg" alt="compost piles">
  </div>
 </div>
 <div class="row">

@@ -4,7 +4,7 @@ title: Concrete and Asphalt
 permalink: /products/concrete
 ---
 
-![Concrete and Asphalt](/assets/images/concreteandasphalt.png)
+![Concrete and Asphalt](/assets/images/concreteandasphalt_w.jpg)
 
 We sell concrete and asphalt by the ton.
 

@@ -11,10 +11,10 @@ Load it up in a truck or trailer and for a per-load drop off fee we will happily
 For more information please call [519-669-2456](tel:5196692456).
 
 <div class="row">
- <div class="col-6">
-<img src="/assets/images/grey_highlands-20120521-00219_copy.jpg" alt="waste wood">
+ <div class="col-6" markdown="1" style="text-align: center;">
+<img src="/assets/images/grey_highlands-20120521-00219_w.jpg" alt="waste wood">
  </div>
- <div class="col-6">
-<img src="/assets/images/stumps_to_be_ground.jpg" alt="stumps dropped off">
+ <div class="col-6" markdown="1" style="text-align: center;">
+<img src="/assets/images/stumps_to_be_ground_w.jpg" alt="stumps dropped off">
  </div>
 </div>
